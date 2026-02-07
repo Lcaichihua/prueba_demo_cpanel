@@ -1,2 +1,2 @@
 <?php
-echo "Hola mundo desde app xdddasdsadasdas";
+echo "Hola mundo desde app ";
