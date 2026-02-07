@@ -1,11 +1,2 @@
-<html>
-
-<head></head>
-
-<body>
-  <?php
-  echo "Hola Mundo";
-  ?>
-</body>
-
-</html>
+<?php
+echo "Hola mundo desde app";
